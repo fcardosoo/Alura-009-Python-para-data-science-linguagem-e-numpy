@@ -1,0 +1,1 @@
+# Alura-8-Python-para-data-science-linguagem-e-numpy
